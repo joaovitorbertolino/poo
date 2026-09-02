@@ -1,0 +1,21 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "deno": "^2.9.6"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "deno@2.9.6": true
+  }
+}
