@@ -1,0 +1,74 @@
+[
+  {
+    "personagens": [
+      {
+        "nome": "Aragorn",
+        "vida": 100,
+        "vidaMaxima": 100,
+        "dano": 20,
+        "experiencia": 0
+      },
+      {
+        "nome": "Gandalf",
+        "vida": 80,
+        "vidaMaxima": 80,
+        "dano": 30,
+        "experiencia": 0
+      }
+    ]
+  },
+  {
+    "personagens": [
+      {
+        "nome": "Aragorn",
+        "vida": 100,
+        "vidaMaxima": 100,
+        "dano": 20,
+        "experiencia": 0
+      },
+      {
+        "nome": "Gandalf",
+        "vida": 80,
+        "vidaMaxima": 80,
+        "dano": 30,
+        "experiencia": 0
+      }
+    ]
+  },
+  {
+    "personagens": [
+      {
+        "nome": "Aragorn",
+        "vida": 100,
+        "vidaMaxima": 100,
+        "dano": 20,
+        "experiencia": 0
+      },
+      {
+        "nome": "Gandalf",
+        "vida": 80,
+        "vidaMaxima": 80,
+        "dano": 30,
+        "experiencia": 0
+      }
+    ]
+  },
+  {
+    "personagens": [
+      {
+        "nome": "Aragorn",
+        "vida": 100,
+        "vidaMaxima": 100,
+        "dano": 20,
+        "experiencia": 0
+      },
+      {
+        "nome": "Gandalf",
+        "vida": 80,
+        "vidaMaxima": 80,
+        "dano": 30,
+        "experiencia": 0
+      }
+    ]
+  }
+]
